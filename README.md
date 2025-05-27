@@ -1,0 +1,1 @@
+A python implementation of a Zombie apocalypse game, where a player navigate through a map, collect items, and avoid zombies, with the objective of gathering all items before encountering a zombie. (Still in progress)
